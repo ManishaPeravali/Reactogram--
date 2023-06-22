@@ -1,6 +1,4 @@
-# This is a brief description of the steps I followed while making this project.
-
-PS: Its more for my own reference and for not forgeting the flow of code after a couple of months.
+# This is a brief description of the steps that have to be followed while making this project
 
 ## Frontend
 
