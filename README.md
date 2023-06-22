@@ -1,6 +1,4 @@
-# Reactogram (Instagram clone using MERN stack)
-
-### Live Demo: https://reactogram-by-trupti.onrender.com
+# Reactogram 
 
 <hr>
 
