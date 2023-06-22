@@ -1,4 +1,4 @@
-# This is a brief description of the steps that have to be followed while making this project
+ # This is a brief description of the steps that have to be followed while making this project
 
 ## Frontend
 
